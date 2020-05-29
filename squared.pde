@@ -32,5 +32,5 @@ void defineLights() {
   spotLight(255, 255, 109,  // Color
             0, 40, 200,     // Position
             0, -0.5, -0.5,  // Direction
-            PI / 2, 2);     // Angle, concentration
+            PI / 2, 2);     // Angle and concentration
 }
