@@ -1,10 +1,3 @@
-/**
- *  
- * modified from an example by Simon Greenwold. 
- * 
- * Display a 2D grid of boxes with three different kinds of lights. 
- */
-
 void setup() {
   size(640, 360, P3D);
   noStroke();
