@@ -1,3 +1,5 @@
+// An implementation of the Game of Life
+
 int cellSize = 2;
 float initialLife = 15;
 
